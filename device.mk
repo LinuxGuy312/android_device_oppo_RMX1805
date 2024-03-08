@@ -293,6 +293,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.renderscript@1.0-impl
 
+# RevampedFMRadio
+PRODUCT_PACKAGES += \
+    RevampedFMRadio
+
+PRODUCT_PACKAGES += \
+    libqcomfmjni
+
 # RIL
 PRODUCT_PACKAGES += \
     librmnetctl \
